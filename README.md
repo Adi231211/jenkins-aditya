@@ -1,4 +1,4 @@
-<a href="https://jenkins.io">
+i<a href="https://jenkins.io">
     <img width="400" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg" alt="Jenkins logo"> 
 </a>
 
@@ -62,13 +62,4 @@ Follow us on [Twitter](https://twitter.com/jenkinsci) or [LinkedIn](https://www.
 # Governance
 
 See the [Jenkins Governance Document](https://www.jenkins.io/project/governance/) for information about the project's open governance, our philosophy and values, and development practices.
-Jenkins Code of Conduct can be found [here](https://www.jenkins.io/project/conduct/).
-
-# Adopters
-
-Jenkins is used by millions of users and thousands of companies.
-See [adopters](https://www.jenkins.io/project/adopters/) for the list of Jenkins adopters and their success stories.
-
-# License
-
-Jenkins is **licensed** under the **[MIT License](LICENSE.txt)**.
+Jenkins Code of Conduct can be found [here](https://www.jenkins.io/project/coins is **licensed** under the **[MIT License](LICENSE.txt)**.
